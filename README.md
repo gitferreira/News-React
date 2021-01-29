@@ -3,7 +3,7 @@
 
 React made US News Browser using News API.
 
-![N-Preview](preview-news.PNG)
+![N-Preview](preview.news.PNG)
 
 ## Start the app 🚀
 
