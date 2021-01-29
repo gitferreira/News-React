@@ -19,7 +19,7 @@ Instructions to get a copy of the working project on your local machine for deve
 
 LIVE DEMO:
 
-https://crypto-converter-react.netlify.app/
+https://news-browser-react.netlify.app/
 
 ## Built with 🛠️
 
